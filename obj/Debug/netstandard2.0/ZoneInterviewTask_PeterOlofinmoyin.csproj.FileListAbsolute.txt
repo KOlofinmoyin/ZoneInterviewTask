@@ -1,0 +1,7 @@
+C:\Users\kehin\source\repos\ZoneInterviewTask\bin\Debug\netstandard2.0\ZoneInterviewTask_PeterOlofinmoyin.deps.json
+C:\Users\kehin\source\repos\ZoneInterviewTask\bin\Debug\netstandard2.0\ZoneInterviewTask_PeterOlofinmoyin.dll
+C:\Users\kehin\source\repos\ZoneInterviewTask\obj\Debug\netstandard2.0\ZoneInterviewTask_PeterOlofinmoyin.csproj.CoreCompileInputs.cache
+C:\Users\kehin\source\repos\ZoneInterviewTask\obj\Debug\netstandard2.0\ZoneInterviewTask_PeterOlofinmoyin.AssemblyInfoInputs.cache
+C:\Users\kehin\source\repos\ZoneInterviewTask\obj\Debug\netstandard2.0\ZoneInterviewTask_PeterOlofinmoyin.AssemblyInfo.cs
+C:\Users\kehin\source\repos\ZoneInterviewTask\obj\Debug\netstandard2.0\ZoneInterviewTask_PeterOlofinmoyin.csprojAssemblyReference.cache
+C:\Users\kehin\source\repos\ZoneInterviewTask\bin\Debug\netstandard2.0\TechTalk.SpecFlow.xUnit.SpecFlowPlugin.dll
